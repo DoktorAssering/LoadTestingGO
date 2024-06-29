@@ -1,0 +1,3 @@
+{
+    "load_service_path": "load_service/load_service.go"
+}

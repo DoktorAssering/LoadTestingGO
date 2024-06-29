@@ -1,0 +1,101 @@
+2024/06/29 15:14:48 Starting load test...
+2024/06/29 15:14:48 agent2 started with PID 8200
+2024/06/29 15:14:48 agent1 started with PID 19356
+2024/06/29 15:14:48 controller started with PID 6084
+2024/06/29 15:14:48 load service started with PID 1704
+2024/06/29 15:15:18 Replica replica-1 started on localhost:9093
+2024/06/29 15:15:48 Replica replica-2 started on localhost:9094
+2024/06/29 15:16:18 Replica replica-3 started on localhost:9095
+2024/06/29 15:16:48 Replica replica-4 started on localhost:9096
+2024/06/29 15:17:18 Replica replica-5 started on localhost:9097
+2024/06/29 15:17:48 Replica replica-6 started on localhost:9098
+2024/06/29 15:18:18 Replica replica-7 started on localhost:9099
+2024/06/29 15:18:48 Replica replica-8 started on localhost:9100
+2024/06/29 15:19:18 Replica replica-9 started on localhost:9101
+2024/06/29 15:19:48 Replica replica-10 started on localhost:9102
+2024/06/29 15:20:15 Replica replica-11 started on localhost:9103
+2024/06/29 15:20:45 Replica replica-12 started on localhost:9104
+2024/06/29 15:21:15 Replica replica-13 started on localhost:9105
+2024/06/29 15:21:45 Replica replica-14 started on localhost:9106
+2024/06/29 15:22:15 Replica replica-15 started on localhost:9107
+2024/06/29 15:22:45 Replica replica-16 started on localhost:9108
+2024/06/29 15:23:15 Replica replica-17 started on localhost:9109
+2024/06/29 15:23:45 Replica replica-18 started on localhost:9110
+2024/06/29 15:24:15 Replica replica-19 started on localhost:9111
+2024/06/29 15:24:45 Replica replica-20 started on localhost:9112
+2024/06/29 15:24:45 Replica replica-4 stopped
+2024/06/29 15:24:45 Replica replica-9 stopped
+2024/06/29 15:24:45 Replica replica-10 stopped
+2024/06/29 15:24:45 Replica replica-17 stopped
+2024/06/29 15:24:45 Replica replica-5 stopped
+2024/06/29 15:24:45 Replica replica-6 stopped
+2024/06/29 15:24:45 Replica replica-12 stopped
+2024/06/29 15:24:45 Replica replica-13 stopped
+2024/06/29 15:24:45 Replica replica-2 stopped
+2024/06/29 15:24:45 Replica replica-3 stopped
+2024/06/29 15:24:45 Replica replica-15 stopped
+2024/06/29 15:24:45 Replica replica-16 stopped
+2024/06/29 15:24:45 Replica replica-18 stopped
+2024/06/29 15:24:45 Replica replica-20 stopped
+2024/06/29 15:24:45 Replica replica-1 stopped
+2024/06/29 15:24:45 Replica replica-7 stopped
+2024/06/29 15:24:45 Replica replica-8 stopped
+2024/06/29 15:24:45 Replica replica-11 stopped
+2024/06/29 15:24:45 Replica replica-14 stopped
+2024/06/29 15:24:45 Replica replica-19 stopped
+2024/06/29 15:24:45 Load test completed. Checking results...
+2024/06/29 15:24:45 Load test results: Successful replicas: 0, Failed replicas: 20
+2024/06/29 15:28:21 Starting load test...
+2024/06/29 15:28:21 controller started with PID 9792
+2024/06/29 15:28:21 load service started with PID 10620
+2024/06/29 15:28:21 agent1 started with PID 2296
+2024/06/29 15:28:21 agent2 started with PID 15400
+2024/06/29 15:28:51 Replica replica-1 started on localhost:9093
+2024/06/29 15:29:21 Replica replica-2 started on localhost:9094
+2024/06/29 15:29:51 Replica replica-3 started on localhost:9095
+2024/06/29 15:30:21 Replica replica-4 started on localhost:9096
+2024/06/29 15:30:51 Replica replica-5 started on localhost:9097
+2024/06/29 15:31:21 Replica replica-6 started on localhost:9098
+2024/06/29 15:31:51 Replica replica-7 started on localhost:9099
+2024/06/29 15:32:21 Replica replica-8 started on localhost:9100
+2024/06/29 15:32:51 Replica replica-9 started on localhost:9101
+2024/06/29 15:33:21 Replica replica-10 started on localhost:9102
+2024/06/29 15:33:51 Replica replica-11 started on localhost:9103
+2024/06/29 15:34:21 Replica replica-12 started on localhost:9104
+2024/06/29 15:34:51 Replica replica-13 started on localhost:9105
+2024/06/29 15:35:21 Replica replica-14 started on localhost:9106
+2024/06/29 15:35:51 Replica replica-15 started on localhost:9107
+2024/06/29 15:36:21 Replica replica-16 started on localhost:9108
+2024/06/29 15:36:51 Replica replica-17 started on localhost:9109
+2024/06/29 15:37:21 Replica replica-18 started on localhost:9110
+2024/06/29 15:37:51 Replica replica-19 started on localhost:9111
+2024/06/29 15:38:21 Replica replica-20 started on localhost:9112
+2024/06/29 15:38:21 Replica replica-19 stopped
+2024/06/29 15:38:21 Replica replica-5 stopped
+2024/06/29 15:38:21 Replica replica-7 stopped
+2024/06/29 15:38:21 Replica replica-10 stopped
+2024/06/29 15:38:21 Replica replica-12 stopped
+2024/06/29 15:38:21 Replica replica-13 stopped
+2024/06/29 15:38:21 Replica replica-14 stopped
+2024/06/29 15:38:21 Replica replica-18 stopped
+2024/06/29 15:38:21 Replica replica-1 stopped
+2024/06/29 15:38:21 Replica replica-3 stopped
+2024/06/29 15:38:21 Replica replica-6 stopped
+2024/06/29 15:38:21 Replica replica-9 stopped
+2024/06/29 15:38:21 Replica replica-15 stopped
+2024/06/29 15:38:21 Replica replica-20 stopped
+2024/06/29 15:38:21 Replica replica-2 stopped
+2024/06/29 15:38:21 Replica replica-11 stopped
+2024/06/29 15:38:21 Replica replica-16 stopped
+2024/06/29 15:38:21 Replica replica-17 stopped
+2024/06/29 15:38:21 Replica replica-4 stopped
+2024/06/29 15:38:21 Replica replica-8 stopped
+2024/06/29 15:38:21 Load test completed. Checking results...
+2024/06/29 15:38:21 Load test results: Successful replicas: 0, Failed replicas: 20
+2024/06/29 15:50:38 Starting load test...
+2024/06/29 15:50:38 agent1 started with PID 4636
+2024/06/29 15:50:38 agent2 started with PID 17316
+2024/06/29 15:50:38 load service started with PID 3284
+2024/06/29 15:50:38 controller started with PID 13820
+2024/06/29 15:51:08 Replica replica-1 started on localhost:9093
+2024/06/29 15:51:38 Replica replica-2 started on localhost:9094
